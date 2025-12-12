@@ -1,0 +1,12 @@
+*.log
+*.tmp
+*.bak
+*.zip
+*.rar
+node_modules/
+dist/
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
